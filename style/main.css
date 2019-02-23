@@ -35,3 +35,17 @@
 .header__circle_color {
     background-color: #0b5c98;
 }
+.header__title {
+    font-size: 36px;
+    text-transform: uppercase;
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    padding: 10px 0;
+    margin-bottom: 5px;
+    text-shadow: 
+                1px 1px 0 #fff, 
+                -1px -1px 0 #000;
+}
+.header__desc {
+    font-size: 14px;
+}

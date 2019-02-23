@@ -7,3 +7,10 @@
     font-family: sans-serif; /* установлен шрифт всего сайта */
 }
 
+/* --------------- шапка сайта ---------*/
+
+.header_color {
+    background-color: #000;
+    color: #fff;
+}
+

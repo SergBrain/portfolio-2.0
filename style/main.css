@@ -32,3 +32,6 @@
     flex-direction: column;
     box-shadow: 0 0 100px 0 rgba(255, 255, 255, 0.2);
 }
+.header__circle_color {
+    background-color: #0b5c98;
+}
